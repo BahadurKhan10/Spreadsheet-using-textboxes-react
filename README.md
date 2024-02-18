@@ -14,4 +14,5 @@ This is a React app for a spreadsheet using textboxes. Users can filter data acc
 
 
 4: Screenshot of downloaded data in excel format
-![4  downloaded data](https://github.com/BahadurKhan10/Spreadsheet-using-textboxes-react/assets/57499169/f506b316-3c65-4573-bc92-c840ca11958e)
+![4  downloaded data](https://github.com/BahadurKhan10/Spreadsheet-using-textboxes-react/assets/57499169/92d88a3d-59cd-459b-a36e-37cadbf9f687)
+
