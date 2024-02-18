@@ -18,9 +18,9 @@ This is a React app for a spreadsheet using textboxes. Users can filter data acc
 
 
 # Installation
-npm install
-npm install @mui/icons-material @mui/material @emotion/styled @emotion/react
-npm install xlsx
+## npm install
+## npm install @mui/icons-material @mui/material @emotion/styled @emotion/react
+## npm install xlsx
 
 # Run the app
 npm run start
