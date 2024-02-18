@@ -1,0 +1,33 @@
+.mainSheet{
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    margin-bottom: 20px;
+}
+
+.topDiv{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap:5px;
+    text-align: center;
+    color: #324032;
+    font-family: sans-serif;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.downloadButton{
+  position: absolute;
+  top: 35px;
+  right: 36px;
+  padding: 5px;
+  background-color: #eaf5e1af;
+  border: 0px;
+  color: #218a26;
+  cursor: pointer;
+  font-size: 30px;
+}
+
