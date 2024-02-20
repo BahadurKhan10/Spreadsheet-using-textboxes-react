@@ -4,7 +4,7 @@ import * as XLSX from "xlsx";
 import '../styles/mainSheet.css';
 import FileDownloadSharpIcon from '@mui/icons-material/FileDownloadSharp';
 
-const MainSheet = () => {
+const MainSheet = React.memo(() => {
   const rowCount = 30;
 
   const initialData = Array.from({ length: rowCount }, (_, index) => ({
@@ -54,6 +54,6 @@ const MainSheet = () => {
       </div>
     </div>
   );
-};
+});
 
 export default MainSheet;
